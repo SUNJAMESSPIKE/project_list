@@ -18,7 +18,7 @@ Bitcoin相关实验
 
 导航
 -
-SM2：https://github.com/SUNJAMESSPIKE/SM2_weixiao_kong_project  
+SM2：https://github.com/SUNJAMESSPIKE/SM2_weixiao_kong_project (sm2的实验结果在此处)  
 SM2：ECDSA：https://github.com/SUNJAMESSPIKE/SM2_weixiao_kong_project/tree/main/ECDSA  
 SM2：ECMH：https://github.com/SUNJAMESSPIKE/SM2_weixiao_kong_project/tree/main/ECMH  
 SM2：forge_sig：https://github.com/SUNJAMESSPIKE/SM2_weixiao_kong_project/tree/main/FS  
